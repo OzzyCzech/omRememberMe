@@ -2,11 +2,11 @@
 namespace omRememberMe;
 /**
  * Plugin Name: omRememberMe
- * Plugin URI: http://www.omdesign.cz
+ * Plugin URI: https://ozana.cz
  * Description: Always remember Wordpress user for ever
  * Version: 1.0
  * Author: Roman Ožana
- * Author URI: http://www.omdesign.cz/kontakt
+ * Author URI: https://ozana.cz/kontakt
  */
 
 class omRememberMe {
